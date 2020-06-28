@@ -1,4 +1,6 @@
-# Measuring Outcome
+# Measuring Outcome (espanol)
+
+-- todo: translate below to spanish. in the meantime, this is the english readme --
 
 **Hi Scrum Facilitators!**
 
