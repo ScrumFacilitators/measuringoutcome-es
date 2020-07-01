@@ -1,35 +1,35 @@
-# Measuring Outcome (espanol)
+# Medición del resultado (espanol)
 
--- todo: translate below to spanish. in the meantime, this is the english readme --
+-- todo: translate below to spanish. in the meantime, this is the english readme -- 
 
-**Hi Scrum Facilitators!**
+**¡Hola Scrum Facilitators!**
 
-Welcome to the Measuring Outcome wiki.
+Bienvenido al wiki de Medición del resultado.
 
-This game is based on Evidence-Based Management (EBM). EBM is an empirical framework which organizations can use to help measure the (perceived) product value and the way they deliver their product(s). The measurements can be inspected to help maximize product value and improve the way of working.
+Este juego basa en Evidence-Based Management (EBM). EBM es un marco empírico que las organizaciones pueden utilizar para ayudar a medir el valor (percibido) del producto y la forma en que entregan sus productos. Las mediciones se pueden inspeccionar para ayudar a maximizar el valor del producto y mejorar la forma de trabajar.
 
-## The KVMs are not set in stone
+## Los KVMs no están fijados en piedra
 
-Keep in mind that the KVMs are not set in stone. These are measures suggested from the EBM framework. During the game, you'll have opportunities to reflect on these KVMs, discuss and come up with new valuable KVMs yourself. 
+Tenga en cuenta que los KVMs no están fijados en piedra. Estas son las medidas sugeridas del marco EBM. Durante el juego, tendrá la oportunidad de reflexionar sobre estos KVMs, discutir y llegar a nuevos KVMs valiosos usted mismo. 
 
-## To make your life easier
+## Para hacer su vida más fácil.
 
-To make life easier, we've included a manual on how to facilitate this exercise and a Cheat Sheet where all the Key Value Measures (KVMs) are explained so relax... Now you can focus totally on the exercise as a facilitator. 
+Para facilitar la vida, hemos incluido un manual sobre cómo facilitar este ejercicio y una hoja de trucos en la que se explican todas las Key Value Mesaures (KVMs), así que relájate.... Ahora puedes centrarte totalmente en el ejercicio como facilitador. 
 
 ## Releases
 
-Use the **Release** to get the most stable and updated version of the Measuring Outcome Exercise. We'll promise to keep it updated ;-)
+Utilice el **Release** para obtener la versión más estable y actualizada del ejercicio de medición de resultados. Prometemos mantenerlo actualizado. ;-)
 
-## License
+## La licencia
 
-Measuring Outcome by Scrum Facilitators is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). All the materials in this repository are subject to this license. See the above link for a human readable summary and the included LICENSE.md file for the full license text.
+Medición del resultado para Scrum Facilitators está licenciado bajo [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). Todos los materiales de este repositorio están sujetos a esta licencia. Consulte el enlace anterior para obtener un resumen legible por humanos y el archivo LICENSE.md incluido para obtener el texto completo de la licencia.
 
-*There is a 0,000001% chance that you will come up with a better design. If this is the case, do feel free to change it. We would love it if you could mention us 👍 
+*Hay una probabilidad de 0.000001% de que se le acerque a un diseño mejor. Si este es el caso, no dude en cambiarlo. Nos encantaría que nos menciones. 👍 
 
 ***
 
-Have fun!
-Greetings from the Scrum Facilitators crew
+¡Diviértete!
+Saludos del equipo de Scrum Facilitators
 
 www.scrumfacilitators.nl
 
