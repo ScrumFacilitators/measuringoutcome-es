@@ -1,7 +1,5 @@
 # Medición del resultado (espanol)
 
--- todo: translate below to spanish. in the meantime, this is the english readme -- 
-
 **¡Hola Scrum Facilitators!**
 
 Bienvenido al wiki de Medición del resultado.
