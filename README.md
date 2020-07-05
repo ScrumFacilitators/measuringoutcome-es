@@ -1,8 +1,8 @@
-# Medición del resultado (espanol)
+# Medición del Resultado (Measuring Outcome)
 
 **¡Hola Scrum Facilitators!**
 
-Bienvenido al wiki de Medición del resultado.
+Bienvenido al wiki de Medición del Resultado.
 
 Este juego basa en Evidence-Based Management (EBM). EBM es un marco empírico que las organizaciones pueden utilizar para ayudar a medir el valor (percibido) del producto y la forma en que entregan sus productos. Las mediciones se pueden inspeccionar para ayudar a maximizar el valor del producto y mejorar la forma de trabajar.
 
@@ -34,4 +34,3 @@ Saludos del equipo de Scrum Facilitators
 www.scrumfacilitators.nl
 
 ![SF](https://www.scrumfacilitators.nl/wp-content/uploads/2020/04/cropped-SCRUMFACILITATOR_Mesa-de-trabajo-1-150x150-1-1.png)
-
