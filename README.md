@@ -6,6 +6,8 @@ Bienvenido al wiki de Medición del resultado.
 
 Este juego basa en Evidence-Based Management (EBM). EBM es un marco empírico que las organizaciones pueden utilizar para ayudar a medir el valor (percibido) del producto y la forma en que entregan sus productos. Las mediciones se pueden inspeccionar para ayudar a maximizar el valor del producto y mejorar la forma de trabajar.
 
+Este contenido es una traducción del juego en inglés, que puedes encontrar aquí: [Measuring Outcome (english)](https://github.com/ScrumFacilitators/measuringoutcome-en).
+
 ## Los KVMs no están fijados en piedra
 
 Tenga en cuenta que los KVMs no están fijados en piedra. Estas son las medidas sugeridas del marco EBM. Durante el juego, tendrá la oportunidad de reflexionar sobre estos KVMs, discutir y llegar a nuevos KVMs valiosos usted mismo. 
