@@ -22,7 +22,7 @@ Utilice el **Release** para obtener la versión más estable y actualizada del e
 
 ## La licencia
 
-Medición del resultado para Scrum Facilitators está licenciado bajo [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). Todos los materiales de este repositorio están sujetos a esta licencia. Consulte el enlace anterior para obtener un resumen legible por humanos y el archivo LICENSE.md incluido para obtener el texto completo de la licencia.
+Medición del resultado para Scrum Facilitators está licenciado bajo [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Todos los materiales de este repositorio están sujetos a esta licencia. Consulte el enlace anterior para obtener un resumen legible por humanos y el archivo LICENSE.md incluido para obtener el texto completo de la licencia.
 
 *Hay una probabilidad de 0.000001% de que se le acerque a un diseño mejor. Si este es el caso, no dude en cambiarlo. Nos encantaría que nos menciones. 👍 
 
