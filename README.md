@@ -26,6 +26,9 @@ Medición del resultado para Scrum Facilitators está licenciado bajo [CC BY-NC-
 
 *Hay una probabilidad de 0.000001% de que se le acerque a un diseño mejor. Si este es el caso, no dude en cambiarlo. Nos encantaría que nos menciones. 👍 
 
+## Gracias
+Este producto no solo fue creado y curado por el equipo de Facilitadores de Scrum, sino que también fue posible gracias a las contribuciones de la comunidad. Las siguientes personas han contribuido a este producto (traducciones, comentarios, etc.): Natalie Stroud (traducción al español).
+
 ***
 
 ¡Diviértete!
