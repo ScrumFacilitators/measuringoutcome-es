@@ -20,6 +20,11 @@ Para facilitar la vida, hemos incluido un manual sobre cómo facilitar este ejer
 
 Utilice el **Release** para obtener la versión más estable y actualizada del ejercicio de medición de resultados. Prometemos mantenerlo actualizado. ;-)
 
+## Otros idiomas
+
+- [Measure Outcomes](https://github.com/ScrumFacilitators/measuringoutcome-en/releases/latest) (english) / Inglés (original)
+- [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (nederlands) / Traducción al holandés
+
 ## La licencia
 
 Medición del resultado para Scrum Facilitators está licenciado bajo [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Todos los materiales de este repositorio están sujetos a esta licencia. Consulte el enlace anterior para obtener un resumen legible por humanos y el archivo LICENSE.md incluido para obtener el texto completo de la licencia.
