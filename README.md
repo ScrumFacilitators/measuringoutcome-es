@@ -24,6 +24,7 @@ Utilice el **Release** para obtener la versión más estable y actualizada del e
 
 - [Measure Outcomes](https://github.com/ScrumFacilitators/measuringoutcome-en/releases/latest) (english) / Inglés (original)
 - [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (nederlands) / Traducción al holandés
+- [衡量結果](https://github.com/ScrumFacilitators/measuringoutcome-cht/releases/latest) (中文) / Traducción en chino
 
 ## La licencia
 
