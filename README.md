@@ -33,7 +33,8 @@ Medición del resultado para Scrum Facilitators está licenciado bajo [CC BY-NC-
 *Hay una probabilidad de 0.000001% de que se le acerque a un diseño mejor. Si este es el caso, no dude en cambiarlo. Nos encantaría que nos menciones. 👍 
 
 ## Gracias
-Este producto no solo fue creado y curado por el equipo de Facilitadores de Scrum, sino que también fue posible gracias a las contribuciones de la comunidad. Las siguientes personas han contribuido a este producto (traducciones, comentarios, etc.): Natalie Stroud (traducción al español).
+Este producto no solo fue creado y curado por el equipo de Facilitadores de Scrum, sino que también fue posible gracias a las contribuciones de la comunidad. Las traducciones de los KVM se basan en [la Guía de EBM en español (direct link)](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2020-12/2020-EBM-Guide-Spanish-European.pdf?nexus-file=https%3A%2F%2Fscrumorg-website-prod.s3.amazonaws.com%2Fdrupal%2F2020-12%2F2020-EBM-Guide-Spanish-European.pdf) disponible a través de Scrum.org. Partes del juego que no se encuentran en la guía se tradujeron con la ayuda de Natalie Stroud.
+Las siguientes personas han contribuido a este producto (traducciones, comentarios, etc.): Natalie Stroud (traducción al español).
 
 ***
 
