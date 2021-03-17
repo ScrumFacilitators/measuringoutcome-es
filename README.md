@@ -22,10 +22,12 @@ Utilice el **Release** para obtener la versión más estable y actualizada del e
 
 ## Otros idiomas
 
+- [Measure Outcomes](https://github.com/ScrumFacilitators/measuringoutcome-en/releases/latest) (english) / Engels (origineel)
 - [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (nederlands) / Translation in dutch
 - [Medición del Resultado](https://github.com/ScrumFacilitators/measuringoutcome-es/releases/latest) (Español) / Translation in spanish
 - [衡量結果](https://github.com/ScrumFacilitators/measuringoutcome-cht/releases/latest) (中文) / Translation in Traditional Chinese
 - [Đo Lường Giá trị](https://github.com/ScrumFacilitators/measuringoutcome-vn/releases/latest) (Tiếng Việt) / Translation in Vietnamese
+- [Etkiyi Ölçme](https://github.com/ScrumFacilitators/measuringoutcome-tr) (Türk) / Translation in Turkish
 
 ## La licencia
 
